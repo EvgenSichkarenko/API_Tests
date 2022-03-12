@@ -17,3 +17,5 @@ class TestHomework:
 		response1 = requests.get("https://playground.learnqa.ru/ajax/api/user_agent_check")
 		print(response1.headers)
 
+
+
